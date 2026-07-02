@@ -272,6 +272,7 @@ const portfolioData = {
             tags: ["Social", "Events", "Firebase", "Kuwait"]
         },
         {
+        
             id: "smsar",
             category: "marketplace",
             categoryName: "Classified Ads — KSA",
